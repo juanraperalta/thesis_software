@@ -16,5 +16,6 @@ This data is then used to assess the robustness of the observed empirical result
 Chapter 5: adaptation_tools.py
 ------------------------------
 This script contains the code needed to run the individual-based simulation model described in chapter 5. 
+It can be imported as a module.
 It defines the Population class and its method .advance_generation()
 It also includes all the required functions and extra functions to generate graphic output. 
